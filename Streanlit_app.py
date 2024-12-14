@@ -35,4 +35,4 @@ if name:
 image_url = "https://media.istockphoto.com/id/1222602125/photo/mother-panda-walking-with-panda-cub.jpg?s=612x612&w=0&k=20&c=-9ulesjKZK2zvn7uBpwo6_33-3FoZcQE52FQhZiCpeM="
 
 # Display the image
-st.image(image_url, caption='Sample Image' ,use_container_width=True, clamp=True, channels='RGB', output_format='auto)
+st.image(image_url, caption='Sample Image' ,use_container_width=True, clamp=True, channels='RGB', output_format='auto')
