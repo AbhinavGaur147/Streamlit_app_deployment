@@ -2,6 +2,7 @@ import streamlit as st
 
 # Title of the app
 st.title("My First Streamlit APP Test")
+st.title("Testing")
 
 # Subheader
 st.subheader("Welcome to my first Streamlit app!")
