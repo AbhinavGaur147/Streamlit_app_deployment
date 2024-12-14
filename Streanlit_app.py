@@ -35,4 +35,4 @@ if name:
 image_url = "https://www.istockphoto.com/photo/giant-panda-baby-cub-in-chengdu-area-china-gm539113690-96047311"
 
 # Display the image
-st.image(image_url, caption='Sample Image', use_column_width=True)
+st.image(image_url, caption='Sample Image')
