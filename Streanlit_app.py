@@ -32,7 +32,7 @@ if name:
     st.write(f"Hello, {name}!")
 
 # URL of the image
-image_url = "https://www.istockphoto.com/photo/giant-panda-baby-cub-in-chengdu-area-china-gm539113690-96047311"
+image_url = "https://media.istockphoto.com/id/1222602125/photo/mother-panda-walking-with-panda-cub.jpg?s=612x612&w=0&k=20&c=-9ulesjKZK2zvn7uBpwo6_33-3FoZcQE52FQhZiCpeM="
 
 # Display the image
 st.image(image_url, caption='Sample Image')
